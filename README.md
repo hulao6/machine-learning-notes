@@ -153,7 +153,7 @@ basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equa
 * ### [Monto Carlo Tree Search](https://github.com/roboticcam/machine-learning-notes/blob/master/files/mcts.pdf) ###
 Monto Carlo Tree Search, alphaGo learning algorithm   蒙托卡罗树搜索，alphaGo学习算法
 
-* ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/policy_gradient.pdf) ###
+* ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_policy_gradient.pdf) ###
 Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm   政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
 
 
